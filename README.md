@@ -18,7 +18,7 @@ A sleek, mobile-friendly habit tracker app built with **React**, designed to hel
 
 ## 📸 Demo
 
-[👉 Live Demo on Netlify/Vercel]([https://your-deployed-link.com](https://habit-tracker-ten-tawny.vercel.app/)) <!-- Replace with your deployed link -->
+[👉 Live Demo on Netlify/Vercel]([[https://your-deployed-link.com](https://habit-tracker-ten-tawny.vercel.app/)](https://habit-tracker-ten-tawny.vercel.app/)) <!-- Replace with your deployed link -->
 
 ## 🛠️ Tech Stack
 
