@@ -1,12 +1,31 @@
-# React + Vite
+# Habit Tracker 🧠🔥
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, mobile-friendly habit tracker app built with **React**, designed to help users build consistent daily habits and view weekly progress with gamified visuals.
 
-Currently, two official plugins are available:
+![habit-tracker-Screenshots](https://github.com/Yogendra-SinghRathore/habit-tracker/blob/main/Screenshot%20(10).png?raw=true) <!-- Add a real screenshot URL or delete this line -->
+![habit-tracker-Screenshots](https://github.com/Yogendra-SinghRathore/habit-tracker/blob/main/Screenshot%20(11).png?raw=true) <!-- Add a real screenshot URL or delete this line -->
+![habit-tracker-Screenshots](https://github.com/Yogendra-SinghRathore/habit-tracker/blob/main/Screenshot%20(12).png?raw=true) <!-- Add a real screenshot URL or delete this line -->
+![habit-tracker-Screenshots](https://github.com/Yogendra-SinghRathore/habit-tracker/blob/main/Screenshot%20(8).png?raw=true) <!-- Add a real screenshot URL or delete this line -->
+![habit-tracker-Screenshots](https://github.com/Yogendra-SinghRathore/habit-tracker/blob/main/Screenshot%20(9).png?raw=true) <!-- Add a real screenshot URL or delete this line -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add daily habits with title, description, icon, and frequency
+- 📈 Track habit completion visually with conic gradients
+- 📊 Get a detailed **weekly report** with score and progress
+- 💾 Data persists in `localStorage`
+- 🌓 Responsive, clean UI (TailwindCSS)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Demo
+
+[👉 Live Demo on Netlify/Vercel](https://your-deployed-link.com) <!-- Replace with your deployed link -->
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **React Router**
+- **LocalStorage**
+
+## 📁 Folder Structure (Simplified)
+
